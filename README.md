@@ -2,7 +2,7 @@
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-## [PR](https://github.com/Laith-Vlad/auth-api/pull/3)
+## [PR](https://github.com/Laith-Vlad/aws-s3/pull/1)
 
 ## [Deployed link ](https://supers33.s3.amazonaws.com/images.json)
 https://supers33.s3.amazonaws.com/images.json
